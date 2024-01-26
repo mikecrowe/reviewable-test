@@ -60,14 +60,10 @@ More information about Meson can be found at https://mesonbuild.com/
 
 Contributing
 ============
-Please send bug reports, patches and pull requests to:
-
-- Mike Crowe <mac@mcrowe.com>
+mp3chop is maintained at [GitLab](https://gitlab.com/mp3chop/mp3chop). Please submit issues and merge requests there.
 
 Also see:
 
 - https://www.mcrowe.com/~mac/mp3chop/
-- https://gitlab.com/mp3chop/mp3chop
 
-Mike Crowe, <mac@mcrowe.com>
-2022/05/08
+Mike Crowe 2022-05-08
