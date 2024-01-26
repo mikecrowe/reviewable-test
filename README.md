@@ -66,5 +66,4 @@ Also see:
 
 - https://www.mcrowe.com/~mac/mp3chop/
 
-Mike Crowe
-2022/05/08
+Mike Crowe 2022-05-08
